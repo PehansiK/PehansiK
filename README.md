@@ -12,9 +12,7 @@
 
 - :woman_student: I'm a AI & Data Science undergraduate student.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I read tech articles.
+- :seedling: Exploring Technical Content.
 
 - :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Pehansi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pehansi-karunaratne/)
 
