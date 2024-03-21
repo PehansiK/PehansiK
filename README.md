@@ -81,23 +81,18 @@
  <table align="center" width="100%" height="100%" >
    <tr>
      <td> 
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=PehansiK&theme=tokyonight&show_icons=true&count_private=true&hide=issues) </td>
-     <td>[![GitHub Streak](https://streak-stats.demolab.com/?user=PehansiK&theme=tokyonight)](https://git.io/streak-stats)</td>
-   </tr>
-  </table>
-  
-<table align="center" width="100%" height="100%" >
-   <tr>
-     <td> 
-       
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PehansiK&theme=tokyonight&layout=compact)](https://github.com/PehansiK) </td>
+      
+   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=PehansiK&theme=tokyonight) </td>
+     <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PehansiK&theme=tokyonight&layout=compact)](https://github.com/PehansiK)</td>
    </tr>
   </table>
 
   ---
   ## Activity:
-![Pehansi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=PehansiK&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PehansiK&bg_color=121212&color=800cb6&line=800cb6&point=800cb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+
 
   
 
