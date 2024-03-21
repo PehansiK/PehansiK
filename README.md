@@ -48,7 +48,7 @@
 
 
 
-## 💻 Libraries
+## 💻 Libraries 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
@@ -77,7 +77,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="Gimp" alt="Gimp" width="40" height="40"/>
 </div>
 
+
 ---
+## 🔥 Stats :
  <table align="center" width="100%" height="100%" >
    <tr>
      <td> 
@@ -88,7 +90,7 @@
   </table>
 
   ---
-  ## Activity:
+  ## :chart_with_upwards_trend: Activity :
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PehansiK&bg_color=121212&color=800cb6&line=800cb6&point=800cb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
